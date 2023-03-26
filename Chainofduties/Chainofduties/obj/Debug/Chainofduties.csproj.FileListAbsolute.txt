@@ -1,0 +1,11 @@
+D:\HomeWork\Projects\Chainofduties\Chainofduties\bin\Debug\Chainofduties.exe.config
+D:\HomeWork\Projects\Chainofduties\Chainofduties\bin\Debug\Chainofduties.exe
+D:\HomeWork\Projects\Chainofduties\Chainofduties\bin\Debug\Chainofduties.pdb
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.Properties.Resources.resources
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.exe
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.pdb
+D:\HomeWork\Projects\Chainofduties\Chainofduties\obj\Debug\Chainofduties.Form1.resources
